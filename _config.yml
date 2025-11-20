@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ruowei Liu"
+title                    : "Ruowei liu"
 title_separator          : "-"
 name                     : "Ruowei Liu"
-description              : "Ruowei's Website"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : "PhD in Geography (GIScience)"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://ruoweiliu.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ruoweiliu/ruoweiliu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Ruowei Liu（刘若葳）"
   pronouns         : "She/Her/Hers"  
-  bio              : "Ph.D. Candidate in GIScience"
+  bio              : "Ph.D. Candidate in Geography (GIScience) at University of Georgia. Interested in spatial data science and ge."
   location         : "Athens,GA"
   employer         : "University of Georgia"
   uri              : # URL
@@ -299,7 +299,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
