@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ruowei liu"
+title                    : "Ruowei Liu"
 title_separator          : "-"
 name                     : "Ruowei Liu"
 description              : "PhD in Geography (GIScience)"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Ruowei Liu（刘若葳）"
   pronouns         : "She/Her/Hers"  
-  bio              : "Ph.D. Candidate in Geography (GIScience) at University of Georgia. Interested in spatial data science and ge."
+  bio              : "Ph.D. Candidate in Geography (GIScience) at University of Georgia. Interested in spatial data science and GeoAI."
   location         : "Athens,GA"
   employer         : "University of Georgia"
   uri              : # URL
