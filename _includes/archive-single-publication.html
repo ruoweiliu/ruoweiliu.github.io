@@ -34,29 +34,31 @@
       </p>
     {% endif %}
 
-    <!-- Buttons for ABS, ARXIV, BIB -->
-    <p class="archive__item-buttons">
-      {% if post.pdfurl %}
-        <button class="btn btn--small">
-          <a href="{{ post.pdfurl }}">PDF</a>
-        </button>
-      {% endif %}
-      {% if post.arxivurl %}
-        <button class="btn btn--small">
-          <a href="{{ post.arxivurl }}">ARXIV</a>
-        </button>
-      {% endif %}
-      {% if post.bibtexurl %}
-        <button class="btn btn--small">
-          <a href="{{ post.bibtexurl }}">BIB</a>
-        </button>
-      {% endif %}
-      {% if post.paperurl and not post.pdfurl %}
-        <button class="btn btn--small">
-          <a href="{{ post.paperurl }}">PAPER</a>
-        </button>
-      {% endif %}
-    </p>
+    <!-- Buttons for PDF, ARXIV, BIB, PAPER -->
+    {% if post.pdfurl or post.arxivurl or post.bibtexurl or post.paperurl %}
+      <p class="archive__item-buttons">
+        {% if post.pdfurl and post.pdfurl != '' %}
+          <button class="btn btn--small">
+            <a href="{{ post.pdfurl }}">PDF</a>
+          </button>
+        {% endif %}
+        {% if post.arxivurl and post.arxivurl != '' %}
+          <button class="btn btn--small">
+            <a href="{{ post.arxivurl }}">ARXIV</a>
+          </button>
+        {% endif %}
+        {% if post.bibtexurl and post.bibtexurl != '' %}
+          <button class="btn btn--small">
+            <a href="{{ post.bibtexurl }}">BIB</a>
+          </button>
+        {% endif %}
+        {% if post.paperurl and post.paperurl != '' and post.pdfurl == '' %}
+          <button class="btn btn--small">
+            <a href="{{ post.paperurl }}">PAPER</a>
+          </button>
+        {% endif %}
+      </p>
+    {% endif %}
 
     <!-- Abstract/Excerpt -->
     {% if post.excerpt and site.read_more != 'enabled' %}
