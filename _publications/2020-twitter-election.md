@@ -5,7 +5,11 @@ permalink: /publication/2020-twitter-election
 excerpt: 'Most Downloaded Paper Award 1st Place & Best Paper Award 3rd Place in Annals of GIS (2021)'
 date: 2020-01-01
 venue: 'Annals of GIS'
+authors: 'Ruowei Liu, Xiaoping Yao, Chun Guo, Xiaoyu Wei'
 paperurl: 'https://doi.org/10.1080/19475683.2020.1829704'
+pdfurl: ''
+arxivurl: ''
+bibtexurl: ''
 citation: 'Liu, R., Yao, X., Guo, C., & Wei, X. (2020). &quot;Can We Forecast Presidential Election Using Twitter Data? An Integrative Modelling Approach.&quot; <i>Annals of GIS</i>, 27(1), 43-56.'
 ---
 
@@ -17,7 +21,3 @@ This paper integrates Twitter sentiment with election forecasting models to pred
 - Views: 11,541
 - Google Scholar Citations: 65
 - Altmetric: 10
-
-[Download paper here](https://doi.org/10.1080/19475683.2020.1829704)
-
-**Recommended citation:** Liu, R., Yao, X., Guo, C., & Wei, X. (2020). "Can We Forecast Presidential Election Using Twitter Data? An Integrative Modelling Approach." <i>Annals of GIS</i>, 27(1), 43-56.
