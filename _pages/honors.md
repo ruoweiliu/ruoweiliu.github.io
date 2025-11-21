@@ -1,11 +1,8 @@
 ---
 layout: single
-title: "Honors & Awards"
 permalink: /honors/
 author_profile: true
 ---
-
-## Awards & Honors
 
 ### International Awards
 * **Ordnance Survey Student Award** (2025) - British Cartographic Society

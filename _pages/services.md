@@ -1,11 +1,8 @@
 ---
 layout: single
-title: "Services"
 permalink: /services/
 author_profile: true
 ---
-
-## Service & Leadership
 
 ### Conference Service
 * **Conference Session Co-Chair** - AAG Annual Meeting (2024)

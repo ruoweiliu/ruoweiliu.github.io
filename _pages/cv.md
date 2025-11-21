@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,79 +7,81 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Upload / Replace CV (owner only)
 
-Education
-======
-* **Ph.D. in Geography (GIScience)**, University of Georgia, 2025 (Expected)
-  * Dissertation: Applications and Sampling Bias of Geotagged Social Media Big Data
-  * Defense Date: November 13, 2025
-  * GPA: 3.8/4.0
-  
-* **B.S. in GIScience**, Sun Yat-Sen University, China, 2016
-  * Thesis: Freeboard Retrieval and Analysis Using DMS Images and ATM Elevation Data in Arctic
-  * Excellent Undergraduate Thesis Award
-  * GPA: 3.7/4.0
+To upload a new CV PDF directly to this repository, you can use the form below. This uses the GitHub REST API to create or update a file at `files/CV.pdf` in this repository. You must supply a GitHub Personal Access Token with `repo` scope. Keep your token private — anyone who has it can modify the repository.
 
-Research Interests
-======
-* Geotagged Social Media Data Analytics
-* Sampling Bias Evaluation and Correction
-* Spatial and Temporal Modeling
-* Election Forecasting and Public Opinion Analysis
-* Transportation and Health Geography
-* Machine Learning and Deep Learning Applications in GIScience
+Note: This is an owner-only convenience. If you prefer, you can also upload `files/CV.pdf` via the GitHub web UI or push it in a commit.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Awards & Honors
-======
-* Winner (sole), Ordnance Survey Student Award, British Cartographic Society (2025)
-* NSF Student Scholarship for GIScience Conference (2025)
-* International Cartographic Association (ICA) Scholarship (2024)
-* UGA 2024 Summer Doctoral Research Assistantship Award (2024)
-* UGA Graduate School International Travel Grant (2024)
-* UGA Geography Globe Award for Methodological Advancement (2023)
-* UGA Graduate School Domestic Travel Funding (2023)
-* Most Downloaded Paper Award 1st Place, Annals of GIS (2022)
-* Best Paper Award 3rd Place, Annals of GIS (2022)
-* AAG SAM Specialty Group Student Travel Award (2021)
-* "Home Metro Map" Ranked Top 2% in Esri User Conference Map Gallery (2020)
-* UCGIS Student Scholarship Award (2020)
+<form id="cvForm">
+  <label for="token">GitHub Personal Access Token (repo scope):</label><br>
+  <input type="password" id="token" style="width: 100%;" placeholder="ghp_..." required><br><br>
 
-Skills
-======
-* **Geospatial & Remote Sensing**
-  * ArcGIS (Pro, Online, StoryMaps), QGIS, GeoDa, TransCAD, SaTScan, Leaflet
-  * ENVI, ERDAS IMAGINE, PCI Geomatics, Google Earth Engine
-  
-* **Programming & Analysis**
-  * Python, R, JavaScript, MATLAB, SPSS, STATA, SQL
-  * Machine Learning, NLP, Deep Learning
-  
-* **Database & Design**
-  * SQL Server, AWS, LaTeX, R Markdown, Tableau
-  
-* **Languages**
-  * English (Fluent), Mandarin (Native)
+  <label for="cvfile">Select CV PDF file:</label><br>
+  <input type="file" id="cvfile" accept="application/pdf" required><br><br>
 
-Teaching Experience
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <button type="button" id="uploadBtn">Upload CV to Repository</button>
+</form>
 
-Service & Leadership
-======
-* Conference Session Co-Chair, AAG Annual Meeting (2024)
-  * Session: Advancing Health Research: Harnessing Geospatial Big Data and Geo-Analytical Techniques
-* Peer Reviewer
-  * Computational Urban Science
-  * International Journal of Applied Earth Observation and Geoinformation
-  * Transactions in GIS
-  * Journal of Location Based Services
-* Member: CaGIS, UCGIS, AAG (2017-Present)
+<p id="cvStatus"></p>
+
+<script>
+async function getExistingFileSha(token) {
+  const owner = 'ruoweiliu';
+  const repo = 'ruoweiliu.github.io';
+  const path = 'files/CV.pdf';
+  const url = `https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(path)}`;
+  const resp = await fetch(url, { headers: { Authorization: 'token ' + token } });
+  if (resp.status === 200) {
+    const data = await resp.json();
+    return data.sha;
+  }
+  return null;
+}
+
+document.getElementById('uploadBtn').addEventListener('click', async () => {
+  const token = document.getElementById('token').value.trim();
+  const fileInput = document.getElementById('cvfile');
+  const status = document.getElementById('cvStatus');
+  if (!token) { status.textContent = 'Please provide a GitHub token.'; return; }
+  if (!fileInput.files || fileInput.files.length === 0) { status.textContent = 'Please select a PDF file.'; return; }
+
+  const file = fileInput.files[0];
+  if (file.type !== 'application/pdf') { status.textContent = 'Please select a PDF file.'; return; }
+
+  status.textContent = 'Reading file...';
+  const reader = new FileReader();
+  reader.onload = async () => {
+    const base64 = btoa(reader.result);
+    status.textContent = 'Checking existing file...';
+    const sha = await getExistingFileSha(token);
+    const owner = 'ruoweiliu';
+    const repo = 'ruoweiliu.github.io';
+    const path = 'files/CV.pdf';
+    const url = `https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(path)}`;
+    const body = {
+      message: sha ? 'Update CV.pdf' : 'Add CV.pdf',
+      content: base64,
+      branch: 'master'
+    };
+    if (sha) body.sha = sha;
+
+    status.textContent = 'Uploading to GitHub...';
+    const resp = await fetch(url, {
+      method: 'PUT',
+      headers: {
+        Authorization: 'token ' + token,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(body)
+    });
+    if (resp.ok) {
+      status.textContent = 'Upload successful! File is now in `files/CV.pdf`.';
+    } else {
+      const text = await resp.text();
+      status.textContent = 'Upload failed: ' + resp.status + ' ' + text;
+    }
+  };
+  reader.readAsBinaryString(file);
+});
+</script>

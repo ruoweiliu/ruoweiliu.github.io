@@ -4,6 +4,14 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+## Research Interests
+
+- Geotagged Social Media Data Analytics
+- Sampling Bias Evaluation and Correction
+- Spatial and Temporal Modeling
+- Election Forecasting and Public Opinion Analysis
+- Transportation and Health Geography
+- Machine Learning and Deep Learning Applications in GIScience
 
 ## Publications
 
@@ -24,12 +32,3 @@ author_profile: true
 
 - Liu, R. (2016). Freeboard Retrieval and Analysis Using Digital Mapping System Images (DMS) and Airborne Topographic Mapper (ATM) Elevation in Arctic. Sun Yat-Sen University Theses.
   - Excellent Undergraduate Thesis Award
-
-## Research Interests
-
-- Geotagged Social Media Data Analytics
-- Sampling Bias Evaluation and Correction
-- Spatial and Temporal Modeling
-- Election Forecasting and Public Opinion Analysis
-- Transportation and Health Geography
-- Machine Learning and Deep Learning Applications in GIScience
