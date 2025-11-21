@@ -27,7 +27,7 @@ author:
   name             : "Ruowei Liu（刘若葳）"
   pronouns         : "She/Her/Hers"  
   bio              : "Ph.D. Candidate in Geography (GIScience) at University of Georgia. Interested in spatial data science and GeoAI."
-  location         : "Athens,GA"
+  location         : "Athens, GA"
   employer         : "University of Georgia"
   uri              : # URL
   email            : "ruowei@uga.edu" 
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-9495-366X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # URL
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
