@@ -23,7 +23,7 @@ repository               : "ruoweiliu/ruoweiliu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Ruowei Liu（刘若葳）"
   pronouns         : "She/Her/Hers"  
   bio              : "Ph.D. Candidate in Geography (GIScience) at University of Georgia. Interested in spatial data science and GeoAI."
