@@ -6,9 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate in the Department of Geography at the University of Georgia, specializing in GIScience. My research focuses on applications and sampling bias of geotagged social media big data, with particular emphasis on spatial analytics, predictive modeling, and bias evaluation.
-
-I successfully defended my dissertation on November 13, 2025, and expect to graduate in 2025. My work bridges geospatial analytics, social media data science, and public health applications.
+Welcome! I am a Ph.D. candidate in the [Department of Geography](https://geography.uga.edu/) at the [University of Georgia](https://www.uga.edu/), advised by [Dr. Xiaobai (Angela) Yao](https://geography.uga.edu/directory/people/xiaobai-yao/). My dissertation research explores the applications and sampling bias of geotagged social media big data. I earned my B.Sc. in GIScience from [Sun Yat-sen University](https://www.sysu.edu.cn/)
 
 ## Research Interests
 - Geotagged Social Media Data Analytics
