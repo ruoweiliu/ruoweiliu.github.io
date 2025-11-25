@@ -4,15 +4,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Assistant, Department of Geography, UGA
+## Courses
 
-### Curriculum Courses
+### Teaching Assistant, Department of Geography, University of Georgia
 
 - Transportation Modelling and GIS (TransCAD, ArcGIS Pro) (Spring 2024)
 - Intro to GIScience (ArcGIS Pro) (Fall 2023)
-- Intro to GIScience (ArcGIS Pro) & Advanced Geospatial Analysis (ArcGIS Pro, R Studio GeoDa, SaTScan) (Spring 2023)
+- Intro to GIScience & Advanced Geospatial Analysis (ArcGIS Pro, R Studio, GeoDa, SaTScan) (Spring 2023)
 - Transportation Modelling and GIS (TransCAD, ArcGIS Pro) (Fall 2022)
-- Advanced Geospatial Analysis (ArcGIS Pro, R Studio GeoDa, SaTScan) (Spring 2022)
+- Advanced Geospatial Analysis (ArcGIS Pro, R Studio, GeoDa, SaTScan) (Spring 2022)
 - Intro to GIScience (ArcGIS Pro) (Fall 2021)
 - Advanced Geospatial Analysis (ArcGIS Desktop, R Studio, GeoDa, SaTScan) (Spring 2021)
 - Resource, Environment and Society (Fall 2020)
@@ -25,3 +25,7 @@ author_profile: true
 - Remote Sensing (ENVI, ERDAS IMAGINE) (Fall 2017)
 - Digital Image Analysis (ENVI, ERDAS IMAGINE) (Spring 2017)
 - Remote Sensing (ENVI, ERDAS IMAGINE) (Fall 2016)
+
+## Teaching Statement/Philosophy
+
+My teaching statement and philosophy will be available here soon. [Download PDF (Coming Soon)](#)

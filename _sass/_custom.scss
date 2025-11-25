@@ -1,0 +1,67 @@
+/* ==========================================================================
+   CUSTOM STYLES
+   ========================================================================== */
+
+/* Remove top margin from first element in page content to ensure
+   consistent spacing across all pages */
+.page__content > *:first-child {
+  margin-top: 0 !important;
+}
+
+/* Research page green theme styles */
+.page__content h2 {
+  border-left: 4px solid #3CB043;
+  padding-left: 1rem;
+  transition: all 0.3s ease;
+}
+
+.page__content h3 {
+  /* Let h3 use default color which adapts to theme */
+}
+
+/* Publication list items with left border */
+.page__content ul li {
+  border-left: 3px solid #e5e7eb;
+  padding-left: 1rem;
+  margin-bottom: 1.5rem;
+  transition: border-left-color 0.3s ease;
+}
+
+.page__content ul li:hover {
+  border-left-color: #3CB043;
+}
+
+/* Links in green */
+.page__content a {
+  color: #3CB043;
+}
+
+.page__content a:hover {
+  color: #2d8f33;
+}
+
+/* Publication status in green */
+.publication-status {
+  color: #3CB043;
+  font-style: italic;
+}
+
+/* Navigation links - remove underline, use green color instead */
+.greedy-nav .visible-links a:before {
+  display: none !important;
+}
+
+.greedy-nav .visible-links a:hover {
+  color: #3CB043 !important;
+}
+
+/* Active/current page link in green */
+.greedy-nav .visible-links a[href$="{{ page.url }}"] {
+  color: #3CB043 !important;
+  font-weight: 600;
+}
+
+/* Hide site title (name) in navigation bar */
+.greedy-nav .visible-links li:first-child {
+  display: none;
+}
