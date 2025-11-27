@@ -84,3 +84,8 @@
 .greedy-nav .visible-links li:first-child {
   display: none;
 }
+
+/* Style bio (email) under avatar with Menlo font */
+.author__bio {
+  font-family: 'Menlo', monospace !important;
+}
