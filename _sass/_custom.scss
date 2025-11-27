@@ -19,16 +19,9 @@
   /* Let h3 use default color which adapts to theme */
 }
 
-/* Publication list items with left border */
+/* Publication list items - remove border, reduce spacing */
 .page__content ul li {
-  border-left: 3px solid #e5e7eb;
-  padding-left: 1rem;
-  margin-bottom: 1.5rem;
-  transition: border-left-color 0.3s ease;
-}
-
-.page__content ul li:hover {
-  border-left-color: #3CB043;
+  margin-bottom: 0.5rem;
 }
 
 /* Links in green */
@@ -44,6 +37,32 @@
 .publication-status {
   color: #3CB043;
   font-style: italic;
+}
+
+/* Award text - smaller font and bold */
+.award-text {
+  font-size: 0.85em;
+  font-weight: bold;
+}
+
+/* Author name highlight - bold */
+.author-name {
+  font-weight: bold;
+}
+
+/* Conference section note - smaller font */
+.conference-section {
+  font-size: 0.75em;
+}
+
+/* text - green color */
+.green-text {
+  color: #3CB043;
+}
+
+/* text - bold style */
+.bold-text {
+  font-weight: bold;
 }
 
 /* Navigation links - remove underline, use green color instead */

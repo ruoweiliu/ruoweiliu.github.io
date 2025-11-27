@@ -3,29 +3,21 @@ layout: single
 permalink: /teaching/
 author_profile: true
 ---
+## Teaching Statement/Philosophy
+My teaching statement and philosophy will be available here soon. [Download PDF (Coming Soon)](#)
+
 
 ## Courses
-
 ### Teaching Assistant, Department of Geography, University of Georgia
-
-- Transportation Modelling and GIS (TransCAD, ArcGIS Pro) (Spring 2024)
-- Intro to GIScience (ArcGIS Pro) (Fall 2023)
-- Intro to GIScience & Advanced Geospatial Analysis (ArcGIS Pro, R Studio, GeoDa, SaTScan) (Spring 2023)
-- Transportation Modelling and GIS (TransCAD, ArcGIS Pro) (Fall 2022)
-- Advanced Geospatial Analysis (ArcGIS Pro, R Studio, GeoDa, SaTScan) (Spring 2022)
-- Intro to GIScience (ArcGIS Pro) (Fall 2021)
-- Advanced Geospatial Analysis (ArcGIS Desktop, R Studio, GeoDa, SaTScan) (Spring 2021)
+- Transportation Modelling and GIS (Spring 2024, Fall 2022)
+  - TransCAD, ArcGIS Pro 
+- Intro to GIScience (Fall 2023, Spring 2023, Fall 2021, Fall 2019, Summer 2019, Spring 2019, Fall 2018)
+  - ArcGIS Pro, Online; QGIS
+- Advanced Geospatial Analysis (Spring 2023, Spring 2022, Spring 2021)
+  - ArcGIS Pro, R Studio, GeoDa, SaTScan
 - Resource, Environment and Society (Fall 2020)
 - Intro World Geography (Spring 2020)
-- Intro to GIScience (ArcGIS Desktop) (Fall 2019)
-- Intro to GIScience Online Course (ArcGIS Desktop) (Summer 2019)
-- Intro to GIScience (QGIS, ArcGIS Desktop & Online) (Spring 2019)
-- Intro to GIScience (ArcGIS Desktop) (Fall 2018)
-- Digital Image Analysis (ENVI, ERDAS IMAGINE) (Spring 2018)
-- Remote Sensing (ENVI, ERDAS IMAGINE) (Fall 2017)
-- Digital Image Analysis (ENVI, ERDAS IMAGINE) (Spring 2017)
-- Remote Sensing (ENVI, ERDAS IMAGINE) (Fall 2016)
-
-## Teaching Statement/Philosophy
-
-My teaching statement and philosophy will be available here soon. [Download PDF (Coming Soon)](#)
+- Digital Image Analysis (Spring 2018, Spring 2017)
+  - ENVI, ERDAS IMAGINE 
+- Remote Sensing (Fall 2017, Fall 2016)
+  - ENVI, ERDAS IMAGINE 

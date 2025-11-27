@@ -4,8 +4,20 @@ permalink: /misc/
 author_profile: true
 ---
 
-This page contains miscellaneous information and resources.
+## Arts
+* Chinese Lute (Certificate for Amateur Level 7)
+* Traditional Chinese Painting
+* Chinese Folk Dance
+* Singing
 
-## Coming Soon
 
-More content will be added here soon.
+## Sports
+* Swimming
+* Badminton, Tennis, and Pickle Ball
+* Cycling
+* Taekwondo
+
+
+## Language
+* English
+* Mandarin

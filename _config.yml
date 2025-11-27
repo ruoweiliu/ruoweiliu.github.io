@@ -26,11 +26,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Ruowei Liu（刘若葳）"
   pronouns         : "She/Her/Hers"  
-  bio              : "Ph.D. Candidate in Geography (GIScience) at University of Georgia. Interested in spatial data science and GeoAI."
+  bio              : "ruowei@uga.edu"
   location         : "Athens, GA"
   employer         : "University of Georgia"
   uri              : # URL
-  email            : "ruowei@uga.edu" 
+  email            : # "ruowei@uga.edu"
 
   # Academic websites
   academia         : # URL
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ruoweiliu"
+  github           : # "ruoweiliu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
