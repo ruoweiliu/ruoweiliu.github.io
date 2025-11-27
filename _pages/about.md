@@ -31,5 +31,5 @@ Welcome! I am a Ph.D. candidate in the [Department of Geography](https://geograp
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Plotly, Leaftlet, Tableau
 - **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
 - **Web & Database**: HTML, CSS, SQL Server, PostgreSQL, MongoDB
-- **Version Control**: Git, GitHub
-- **Other Tools**: TransCAD, LaTeX, R Markdown, AWS
+- **Version Control and Others**: Git, GitHub, TransCAD, LaTeX, R Markdown, AWS
+- **Languages**: English, Mandarin
