@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /misc/
+permalink: /miscs/
 author_profile: true
 ---
 
