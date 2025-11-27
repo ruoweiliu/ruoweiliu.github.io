@@ -28,6 +28,24 @@ My research statement will be available here soon. [Download PDF (Coming Soon)](
   - <span class="award-text">Excellent Undergraduate Thesis Award</span>
 
 
+## Conferences <span class="conference-section">(*not attend in person)</span>
+- *2025 GIScience Conference, Poster Presentation (Christchurch, New Zealand, Aug 2025)
+- *2025 Esri User Conference, Map Gallery (San Diego, CA, Jul 2025)
+- *2025 AAG Annual Meeting, Paper Presentation (Detroit, MI, Mar 2025)
+- 2024 CaGIS + UCGIS Symposium, Paper Presentation (Columbus, OH, Jun 2024)
+- 2024 AAG Annual Meeting, Paper Presentation (Honolulu, HI, Apr 2024)
+- 2023 AAG Annual Meeting, Paper Presentation (Denver, CO, Mar 2023)
+- *2022 AAG Annual Meeting (Virtual, Apr 2022)
+- *2021 AAG Annual Meeting, Paper Presentation (Virtual, Apr 2021)
+- *2020 Esri User Conference, Map Gallery (Virtual, Jul 2020)
+- *2020 UCGIS Symposium, Poster Gallery (Virtual, Jun 2020)
+- *2020 AAG Annual Meeting (Virtual, Apr 2020)
+- 2019 AAG Annual Meeting, Paper Presentation (Washington, DC, Apr 2019)
+- 2017 AAG Annual Meeting, Poster Presentation (Boston, MA, Apr 2017)
+- 2016 SEDAAG Annual Meeting (Columbia, SC, Nov 2016)
+- 2016 Georgia Geospatial Conference (Athens, GA, Oct 2016)
+
+
 ## Research Projects
 **GRADUATE RESEARCHER:**
 * Conduct research in geospatial analytics, social media data science, sampling bias evaluation, and predictive modeling.
@@ -57,21 +75,3 @@ My research statement will be available here soon. [Download PDF (Coming Soon)](
   -	Classified DMS imagery, derived sea surface height relationships, and calculated Arctic freeboard (<span class="award-text">Excellent Undergraduate Thesis Award</span>).
 * Sea Ice Thickness and Snow Depth Analysis, China National Science Foundation Project
   -	Extracted elevation data and estimated ice thickness and snow depth in the West Antarctic Seas.
-
-
-## Conferences <span class="conference-section">(*not attend in person)</span>
-- *2025 GIScience Conference, Poster Presentation (Christchurch, New Zealand, Aug 2025)
-- *2025 Esri User Conference, Map Gallery (San Diego, CA, Jul 2025)
-- *2025 AAG Annual Meeting, Paper Presentation (Detroit, MI, Mar 2025)
-- 2024 CaGIS + UCGIS Symposium, Paper Presentation (Columbus, OH, Jun 2024)
-- 2024 AAG Annual Meeting, Paper Presentation (Honolulu, HI, Apr 2024)
-- 2023 AAG Annual Meeting, Paper Presentation (Denver, CO, Mar 2023)
-- *2022 AAG Annual Meeting (Virtual, Apr 2022)
-- *2021 AAG Annual Meeting, Paper Presentation (Virtual, Apr 2021)
-- *2020 Esri User Conference, Map Gallery (Virtual, Jul 2020)
-- *2020 UCGIS Symposium, Poster Gallery (Virtual, Jun 2020)
-- *2020 AAG Annual Meeting (Virtual, Apr 2020)
-- 2019 AAG Annual Meeting, Paper Presentation (Washington, DC, Apr 2019)
-- 2017 AAG Annual Meeting, Poster Presentation (Boston, MA, Apr 2017)
-- 2016 SEDAAG Annual Meeting (Columbia, SC, Nov 2016)
-- 2016 Georgia Geospatial Conference (Athens, GA, Oct 2016)
