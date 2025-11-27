@@ -9,7 +9,7 @@ author_profile: true
   * Session: "Advancing Health Research: Harnessing Geospatial Big Data and Geo-Analytical Techniques"
 
 ## Peer Reviewers
-I serve as a peer reviewer for the following journals and conferences:
+I served as a peer reviewer for the following journals:
 * Computational Urban Science
 * International Journal of Applied Earth Observation and Geoinformation
 * Transactions in GIS
