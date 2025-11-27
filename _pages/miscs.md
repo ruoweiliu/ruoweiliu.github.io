@@ -4,12 +4,12 @@ permalink: /misc/
 author_profile: true
 ---
 
-In my personal life, I enjoy a wide range of interests—including arts, sports, traveling, cooking and reading. I’m always exploring new hobbies and looking for fresh ways to experience the world. :)
+In my personal life, I enjoy nature, art, sports, traveling, cooking, and reading—and I’m always curious about exploring new hobbies and discovering fresh ways to experience the world. :)
 
 ## Arts
-* Chinese Lute (Certificate for Amateur Level 7)
-* Traditional Chinese Painting
-* Chinese Folk Dance
+* Chinese Lute 琵琶 (Certificate for Amateur Level 7)
+* Traditional Chinese Painting 国画
+* Chinese Folk Dance 民族舞
 * Singing
 * Art Museums Lover
 * Films, Musicals and Concerts
@@ -18,5 +18,6 @@ In my personal life, I enjoy a wide range of interests—including arts, sports,
 ## Sports
 * Swimming
 * Badminton, Tennis, and Pickle Ball
+* Hiking
 * Cycling
 * Taekwondo
