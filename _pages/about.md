@@ -33,5 +33,3 @@ Welcome! I am a Ph.D. candidate in the [Department of Geography](https://geograp
 - **Web & Database**: HTML, CSS, SQL Server, PostgreSQL, MongoDB
 - **Version Control and Others**: Git, GitHub, TransCAD, LaTeX, R Markdown, AWS
 - **Languages**: English, Mandarin
-
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=x_hAzAyLeqpb5IQYpl6SSthPRCRAGVUbQuNeCyE7_OQ&cl=ffffff&w=a"></script>
