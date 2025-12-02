@@ -11,14 +11,9 @@ author_profile: true
 - Machine Learning and Deep Learning Applications in GIScience
 
 
-## Research Statement
-My research statement will be available here soon. [Download PDF (Coming Soon)](#)
-
-
 ## Publications
-- <span class="author-name">Liu, R.</span>, & Yao, X. (2025). Social Media for Election Prediction. In Citizen Earth: A Guide to Crowdsourced Geospatial Information for Earth and Human Systems <span class="publication-status">(Springer Nature, in preparation)</span>.
-- <span class="author-name">Liu, R.</span>, Yao, X., Yang, H., Guo, C. (2025). Assessing User Changes and Sampling Bias between Twitter and X in Contiguous United States. <span class="publication-status">(in preparation)</span>
-- <span class="author-name">Liu, R.</span>, Yao, X. A. (2025). A Review of Methods for Evaluating and Correcting Sampling Bias in Geotagged Social Media Data. <span class="publication-status">(Cartography and Geographic Information Science, submitted)</span>
+- <span class="author-name">Liu, R.</span>, & Yao, X. (Invited). Social Media for Election Prediction. In Citizen Earth: A Guide to Crowdsourced Geospatial Information for Earth and Human Systems <span class="publication-status">(Springer Nature, in preparation)</span>.
+- <span class="author-name">Liu, R.</span>, Yao, X. A. (2025). A Review of Methods for Evaluating and Correcting Sampling Bias in Geotagged Social Media Data. <span class="publication-status">(in preparation)</span>
 - Yang, H., Yao, X. A., Roozkhosh, F., <span class="author-name">Liu, R.</span>, & Mai, G. (2025). From theory to deep learning: Understanding the impact of geographic context factors on traffic violations. Computers, Environment and Urban Systems, 119, 102268. [https://doi.org/10.1016/j.compenvurbsys.2025.102268](https://doi.org/10.1016/j.compenvurbsys.2025.102268)
 - Yang, H., Yao, X. A., <span class="author-name">Liu, R.</span>, & Whalen, C. C. (2023). Developing a Place–Time-Specific Transmissibility Index to Measure and Examine the Spatiotemporally Varying Transmissibility of COVID-19. Annals of the American Association of Geographers, 113(6), 1419–1443. [https://doi.org/10.1080/24694452.2023.2182758](https://doi.org/10.1080/24694452.2023.2182758)
   - <span class="award-text">UGA Geography Globe Award for Methodological Advancement (2023)</span>
@@ -49,7 +44,6 @@ My research statement will be available here soon. [Download PDF (Coming Soon)](
 ## Research Projects
 **GRADUATE RESEARCHER:**
 * Conduct research in geospatial analytics, social media data science, sampling bias evaluation, and predictive modeling.
-  -	Analyzed spatial, temporal activity patterns, demographic differences and sampling bias between Twitter and X users in the contiguous U.S. (Python, ArcGIS Pro).
   -	Developed a conceptual framework for evaluating and correcting sampling bias in geotagged social media datasets and conducted a literature review about current methods (Oral Presentation at <span class="green-text">AAG 2023</span> and <span class="green-text">AAG 2024</span>).
   -	Integrated Twitter sentiment with election forecasting models and predicted U.S. presidential election outcomes (Python, NLP, ArcGIS, Machine Learning Models; Oral Presentation at <span class="green-text">AAG 2019</span>; <span class="award-text">Annals of GIS Most Downloaded Paper Award 1st Place and Best Paper Award 3rd Place</span>).
   -	Evaluated gender representativeness of Twitter datasets and mapped spatial variation (Python, ArcGIS Pro; <span class="green-text">UCGIS 2020</span> Poster Gallery; Oral Presentation at <span class="green-text">AAG 2021</span>).

@@ -3,8 +3,8 @@ layout: single
 permalink: /teaching/
 author_profile: true
 ---
-## Teaching Statement/Philosophy
-My teaching statement and philosophy will be available here soon. [Download PDF (Coming Soon)](#)
+## Teaching Statement and Philosophy
+Click to see my teaching statement and philosophy. [PDF](/files/Teaching_Statement_RuoweiLiu.pdf)
 
 
 ## Courses

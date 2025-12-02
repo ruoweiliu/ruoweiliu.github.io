@@ -11,7 +11,7 @@ In my personal life, I enjoy nature, art, sports, traveling, cooking, and readin
 * Traditional Chinese Painting 国画
 * Chinese Folk Dance 民族舞
 * Singing
-* Art Museums Lover
+* Museums Lover
 * Films, Musicals and Concerts
 
 

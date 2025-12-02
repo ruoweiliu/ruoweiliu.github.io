@@ -9,7 +9,7 @@ redirect_from:
 Welcome! I am a Ph.D. candidate in the [Department of Geography](https://geography.uga.edu/) at the [University of Georgia](https://www.uga.edu/), advised by [Dr. Xiaobai (Angela) Yao](https://geography.uga.edu/directory/people/angela-yao), who leads the [Urban Geospatial Analytics (UrGA) Lab](https://geog.franklin.uga.edu/research/lab/urban-geospatial-analytics-lab). My dissertation research explores the applications and sampling bias of geotagged social media big data. I earned my B.Sc. in GIScience from [Sun Yat-sen University](https://www.sysu.edu.cn/)
 
 ## Education
-- **Ph.D. in Geography (GIScience)** – University of Georgia, Athens, GA (Expected 2025)
+- **Ph.D. in Geography (GIScience)** – University of Georgia, Athens, GA (Defended on Nov 13, 2025)
 - **B.Sc. in GIScience** – Sun Yat-sen University, Guangzhou, China (2016)
 
 
