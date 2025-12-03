@@ -25,11 +25,11 @@ Welcome! I am a Ph.D. candidate in the [Department of Geography](https://geograp
 
 
 ## Skills
-- **Programming Languages & Tools**: Python, R, JavaScript, Jupyter Notebook, VS Code
-- **GIS & Spatial Analysis**: ArcGIS (Pro,Online), QGIS, GeoPandas, Rasterio, ENVI, ERDAS IMAGINE
+- **Programming Languages & Tools**: Python, R, JavaScript, Jupyter Notebook, VS Code, C, C++
+- **GIS & Spatial Analysis**: ArcGIS (Pro,Online), QGIS, GeoPandas, Rasterio, ENVI, ERDAS IMAGINE, SpaceStat, Google Earth Engine
 - **Statistical Analysis**: SPSS, STATA, MATLAB
-- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Plotly, Leaftlet, Tableau
-- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
-- **Web & Database**: HTML, CSS, SQL Server, PostgreSQL, MongoDB
-- **Version Control and Others**: Git, GitHub, TransCAD, LaTeX, R Markdown, AWS
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Plotly, Leaftlet, Tableau, Gephi
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, Keras
+- **Web & Database**: HTML, CSS, SQL Server, PostgreSQL, MongoDB, AWS
+- **Version Control, Design, and Others**: Git, GitHub, TransCAD, LaTeX, R Markdown, AutoCAD, CorelDraw, Blender
 - **Languages**: English, Mandarin

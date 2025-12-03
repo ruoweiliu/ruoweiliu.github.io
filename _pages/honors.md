@@ -30,6 +30,6 @@ author_profile: true
 * UGA Graduate School Domestic Travel Grant (2017)
 
 
-## Other Honors
+## Map Awards
 * ["Our Spatial Memories of the United States"](https://cartoguophy.com/maps/footprint.html), Winner (sole), Ordnance Survey Student Award, British Cartographic Society (2025)
 * [“Home Metro Map”](https://cartoguophy.com/maps/home_metro_map.html), Ranked Top 2% in 650+ submissions, Esri User Conference Map Gallery (2020)

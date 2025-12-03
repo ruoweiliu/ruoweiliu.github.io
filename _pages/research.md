@@ -44,28 +44,30 @@ author_profile: true
 ## Research Projects
 **GRADUATE RESEARCHER:**
 * Conduct research in geospatial analytics, social media data science, sampling bias evaluation, and predictive modeling.
-  -	Developed a conceptual framework for evaluating and correcting sampling bias in geotagged social media datasets and conducted a literature review about current methods (Oral Presentation at <span class="green-text">AAG 2023</span> and <span class="green-text">AAG 2024</span>).
-  -	Integrated Twitter sentiment with election forecasting models and predicted U.S. presidential election outcomes (Python, NLP, ArcGIS, Machine Learning Models; Oral Presentation at <span class="green-text">AAG 2019</span>; <span class="award-text">Annals of GIS Most Downloaded Paper Award 1st Place and Best Paper Award 3rd Place</span>).
-  -	Evaluated gender representativeness of Twitter datasets and mapped spatial variation (Python, ArcGIS Pro; <span class="green-text">UCGIS 2020</span> Poster Gallery; Oral Presentation at <span class="green-text">AAG 2021</span>).
+  -	<span class="bold-text">Developed</span> a conceptual framework for evaluating and correcting sampling bias in geotagged social media datasets and conducted a literature review about current methods (Oral Presentation at <span class="green-text">AAG 2023</span> and <span class="green-text">AAG 2024</span> and <span class="green-text">CaGIS+UCGIS Symposium</span>).
+  -	<span class="bold-text">Integrated</span> Twitter sentiment with election forecasting models and predicted U.S. presidential election outcomes (<span class="green-text">Python, NLP, ArcGIS, Machine Learning Models</span>; Oral Presentation at <span class="green-text">AAG 2019</span>; <span class="award-text">Annals of GIS Most Downloaded Paper Award 1st Place and Best Paper Award 3rd Place</span>).
+  -	<span class="bold-text">Evaluated</span> gender representativeness of Twitter datasets and mapped spatial variation (<span class="green-text">Python, ArcGIS Pro</span>; <span class="green-text">UCGIS 2020</span> Poster Gallery; Oral Presentation at <span class="green-text">AAG 2021</span>).
 
 **RESEARCH COLLABORATOR:**
 * Collaborated on interdisciplinary research projects in transportation, public health, and spatial modeling.
-  -	Examined geographic context factors influencing traffic violations using theory-guided and deep learning models (Published in <span class="green-text">CEUS</span>).
-  -	Developed a place-time-specific transmissibility index for COVID-19 and assessed spatiotemporal variations in infectiousness (Published in <span class="green-text">Annals of the AAG</span>; <span class="award-text">UGA Geography Globe Award for Methodological Advancement</span>).
+  -	<span class="bold-text">Examined</span> geographic context factors influencing traffic violations using theory-guided and deep learning models (<span class="green-text">Python, Graph Convolutional Networks</span>; Published in <span class="green-text">CEUS</span>).
+  -	<span class="bold-text">Developed</span> a place-time-specific transmissibility index for COVID-19 and assessed spatiotemporal variations in infectiousness (<span class="green-text">Python, Machine Learning Models</span>; Published in <span class="green-text">Annals of the AAG</span>; <span class="award-text">UGA Geography Globe Award for Methodological Advancement</span>).
 
 **APPLIED RESEARCH PROJECTS:**
-* Research Assistant, National Institute of Health (NIH) Project: TB Movement Reconstruction
-  -	Conducted spatial and temporal interpolation of call detail records and reconstructed movement patterns of Tuberculosis (TB) cases in Kampala, Uganda (Python).
-* NSF I-GUIDE Summer School: Urban Green Spaces Cooling Effects
-  -	Employed machine learning models to extract UGS and evaluated cooling effects across the southeastern United States (Python; Oral Presentation at <span class="green-text">NSF I-GUIDE Summer School</span> and Virtual Consulting Office Webinar).
+* Research Assistant, National Institute of Health <span class="bold-text">(NIH)</span> Project: TB Movement Reconstruction
+  -	<span class="bold-text">Conducted</span> spatial and temporal interpolation of call detail records and reconstructed movement patterns of Tuberculosis (TB) cases in Kampala, Uganda (<span class="green-text">Python, ArcGIS Pro</span>).
+* <span class="bold-text">NSF</span> I-GUIDE Summer School: Urban Green Spaces Cooling Effects
+  -	<span class="bold-text">Employed</span> machine learning models to extract UGS and evaluated cooling effects across the southeastern United States (<span class="green-text">Python</span>; Oral Presentation at <span class="green-text">NSF I-GUIDE Summer School</span> and Virtual Consulting Office Webinar).
   
 **COURSE-BASED RESEARCH PROJECTS:**
-  -	Classified influenza-like illness tweets using machine learning models and compared patterns with CDC flu maps.
-  -	Analyzed subjective well-being across Athens, Georgia and identified key local factors affecting community health.
-  -	Examined personal happiness in mainland China using geographically weighted regression (Poster Presentation at <span class="green-text">AAG 2017</span>).
+  -	<span class="bold-text">Classified</span> influenza-like illness tweets using machine learning models and compared patterns with CDC flu maps (<span class="green-text">Python, Machine Learning Models</span>).
+  -	<span class="bold-text">Analyzed</span> subjective well-being across Athens, Georgia and identified key local factors affecting community health (<span class="green-text">ArcGIS, Geospatial Modeling</span>).
+  -	<span class="bold-text">Examined</span> personal happiness in mainland China using geographically weighted regression (<span class="green-text">ArcGIS</span>, Poster Presentation at <span class="green-text">AAG 2017</span>).
 
 **UNDERGRADUATE RESEARCH EXPERIENCE:**
 * Undergraduate Thesis: Freeboard Retrieval and Analysis Using NASA Digital Mapping System (DMS) and Airborne Topographic Mapper (ATM) Data
-  -	Classified DMS imagery, derived sea surface height relationships, and calculated Arctic freeboard (<span class="award-text">Excellent Undergraduate Thesis Award</span>).
+  -	<span class="bold-text">Classified</span> DMS imagery, derived sea surface height relationships, and calculated Arctic freeboard (<span class="green-text">ArcGIS, ENVI, ERDAS, Statistical Analysis</span>; <span class="award-text">Excellent Undergraduate Thesis Award</span>).
 * Sea Ice Thickness and Snow Depth Analysis, China National Science Foundation Project
-  -	Extracted elevation data and estimated ice thickness and snow depth in the West Antarctic Seas.
+  -	<span class="bold-text">Extracted</span> elevation data and estimated ice thickness and snow depth in the West Antarctic Seas (<span class="green-text">ArcGIS, ENVI, ERDAS, Statistical Analysis</span>).
+* GIS Intern, Guangzhou Urban Planning and Design Survey Research Institute
+  - <span class="bold-text">Integrated</span> national economic, urban planning, and land-use datasets, supported city-level planning workflows and organized the final planning report (<span class="green-text">ArcGIS</span>).
