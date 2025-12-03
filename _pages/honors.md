@@ -18,6 +18,7 @@ author_profile: true
 * UCGIS Student Scholarship Award (2020)
 * AutoCarto Student Assistantship (2020)
 * Excellent Undergraduate Thesis Award (2016)
+* SYSU Academic Merit Scholarship (2015)
 
 
 ## Travel Grants & Funding
@@ -32,4 +33,3 @@ author_profile: true
 ## Other Honors
 * ["Our Spatial Memories of the United States"](https://cartoguophy.com/maps/footprint.html), Winner (sole), Ordnance Survey Student Award, British Cartographic Society (2025)
 * [“Home Metro Map”](https://cartoguophy.com/maps/home_metro_map.html), Ranked Top 2% in 650+ submissions, Esri User Conference Map Gallery (2020)
-* SYSU Academic Merit Scholarship (2015)
