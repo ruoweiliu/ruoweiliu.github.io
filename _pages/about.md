@@ -10,7 +10,7 @@ Welcome! I am a Ph.D. candidate in the [Department of Geography](https://geograp
 
 
 ## Vision
-* <span class="bold-text">Space and time</span> are fundamentally special dimensions of information. Most data—whether generated directly or indirectly by people or other living systems—carries an inherent <span class="bold-text">spatial and temporal</span> component, because all activity unfolds within the <span class="bold-text">coordinates</span> of the real world.
+* <span class="bold-text">Space and time</span> are fundamentally special dimensions of information. Most data—whether generated directly or indirectly by people or other living systems—carries an inherent <span class="bold-text">spatial and temporal</span> component, because all activity unfolds within the <span class="bold-text">coordinates and timelines</span> of the real world.
 * <span class="bold-text">Maps and geo-visualizations</span> are uniquely powerful tools for revealing these patterns. 
 * <span class="bold-text">Geographic reasoning</span> remains deeply <span class="bold-text">underestimated</span>, even as it offers essential insights for understanding data, interpreting human and environmental systems, and shaping more informed decisions.
 
