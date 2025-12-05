@@ -3,8 +3,6 @@ layout: single
 permalink: /teaching/
 author_profile: true
 ---
-## Teaching Statement and Philosophy
-Click to see my teaching statement and philosophy. [PDF](/files/Teaching_Statement_RuoweiLiu.pdf)
 
 
 ## Courses
